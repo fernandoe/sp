@@ -26,9 +26,12 @@ github_username:  fernandoe
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-tactile
+# theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
+
+github: [metadata]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
