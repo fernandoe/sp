@@ -9,11 +9,10 @@ tags: [python, django, tdd, unit-test, mock, patch, upload, storage]
 category: [fe-arquivo-server]
 ---
 
-TÍTULO:
 Implementando uma rota para receber o upload de arquivos - Parte 8
 
 
-DESCRIÇÃO:
+# DESCRIÇÃO
 Nesse vídeo fiz a criação de uma rota para receber o upload de arquivos usando TDD (criando os testes antes da implementação). Usamos também mocks para simular o salvamento do arquivo no disco e com isso não salvar fisicamente os arquivos na hora da execução do teste.
 
 Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho realizando em projetos pessoais, ele não é um treinamento. Para ver todos os vídeos desse projeto acesse o link abaixo:
@@ -21,17 +20,21 @@ Lembrando que esse vídeo pertence a uma série de todo o trabalho que eu venho 
 https://www.youtube.com/playlist?list=PLSlZ5nyl9enf-kRYiVVliz2esE3ukcgVJ
 
 
-LINKS:
+
+# LINKS
+
 - Projeto: https://github.com/fernandoe/fe-arquivo-server
 - Roteiro: https://github.com/fernandoe/fe-arquivo-server/issues/9
 - Commit: https://github.com/fernandoe/fe-arquivo-server/commit/cffdd637b5d3e1fab25906b70cd21bdb1c8b6497
 
 
-INSCREVER-SE NO CANAL:
+# INSCREVER-SE NO CANAL
+
 https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ?sub_confirmation=1
 
 
-SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+# SEGUE LÁ (Uma das melhores formas de apoiar esse trabalho é curtir/seguir/assinar/compartilhar minhas redes sociais):
+
 https://www.youtube.com/channel/UCyHuz50Ce8LuiHOj07y9ZIQ
 https://fb.me/streaming.programming
 https://twitter.com/feresp
@@ -39,7 +42,8 @@ https://github.com/fernandoe
 https://fernandoe.com
 
 
-SLACK:
+# SLACK
+
 Quer bater um papo mais interativo? Tirar alguma dúvida? Dar alguma sugestão? Entre no canal do slack usando o link abaixo e venha bater um papo...
 https://goo.gl/DD1q9w
 
