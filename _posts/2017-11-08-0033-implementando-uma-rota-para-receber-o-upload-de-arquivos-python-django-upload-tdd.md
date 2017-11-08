@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Título"
+date:   2017-11-07 20:09:09 -0200
+categories: aaa bbb ccc
+---
+
+
 # TÍTULO:
 Implementando uma rota para receber o upload de arquivos [Python, Django, Upload, TDD]
 
